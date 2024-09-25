@@ -1,0 +1,7 @@
+{
+	"credit": "Made by betaklerik with Blockbench",
+	"parent": "./wood_sinks/acacia_sink",
+	"textures": {
+		"texture": "./golden_sink"
+	}
+}

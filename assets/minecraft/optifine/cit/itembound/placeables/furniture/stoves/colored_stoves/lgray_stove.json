@@ -1,0 +1,7 @@
+{
+	"credit": "Made by betaklerik with Blockbench",
+	"parent": "./black_stove",
+	"textures": {
+		"texture": "./lgray_stove"
+	}
+}

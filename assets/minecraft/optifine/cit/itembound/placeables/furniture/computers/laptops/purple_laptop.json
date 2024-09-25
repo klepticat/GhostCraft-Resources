@@ -1,0 +1,7 @@
+{
+	"credit": "Made by betaklerik with Blockbench",
+	"parent": "./black_laptop",
+	"textures": {
+		"texture": "./purple_laptop"
+	}
+}

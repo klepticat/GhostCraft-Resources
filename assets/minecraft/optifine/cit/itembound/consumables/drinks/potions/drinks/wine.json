@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./wine_drink",
+        "layer1": "./wine_glass"
+    }
+}

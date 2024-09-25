@@ -1,0 +1,7 @@
+{
+	"__comment": "Designed by Sixfootblue with Cubik Studio - https://cubik.studio",
+	"parent": "./slumped_skeleton",
+	"textures": {
+		"texture": "./slumped_wither_skeleton"
+	}
+}

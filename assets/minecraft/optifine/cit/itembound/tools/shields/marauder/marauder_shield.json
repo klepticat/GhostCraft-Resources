@@ -1,0 +1,56 @@
+{
+	"credit": "Made by betaklerik with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "./marauder_shield",
+		"particle": "./marauder_shield"
+	},
+	"elements": [
+		{
+			"from": [-4, -6, 1],
+			"to": [4, 7, 2],
+			"faces": {
+				"north": {"uv": [2, 0, 0, 3], "texture": "#0"},
+				"east": {"uv": [1.75, 0, 2, 3], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.25, 3], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0.25], "texture": "#0"},
+				"down": {"uv": [0, 2.75, 2, 3], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [9.25, 6, -4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [9.25, 6, 12]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 5],
+			"translation": [-10, 2, -10],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 5],
+			"translation": [10, 0, -10],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+			"translation": [4, 4, 2],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [15, -25, -5],
+			"translation": [4.75, 4.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-4, 7.5, -8]
+		}
+	}
+}
