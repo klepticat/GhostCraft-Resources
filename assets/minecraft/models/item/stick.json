@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "ghostcraft:character_items/closedorb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22000
+      },
+      "model": "wynncraft:weapons/mage/apollosapathy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22001
+      },
+      "model": "wynncraft:weapons/mage/arcanefocuswand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23002
+      },
+      "model": "wynncraft:weapons/shaman/atl"
+    }
+  ]
+}

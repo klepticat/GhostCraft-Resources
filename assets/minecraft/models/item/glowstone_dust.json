@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/glowstone_dust"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "ghostcraft:character_items/grim_lantern"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "ghostcraft:character_items/liminal_lantern"
+        }
+    ]
+}
