@@ -1,0 +1,110 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/blaze_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10000
+            },
+            "model": "ghostcraft:character_items/grim_lantern"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "ghostcraft:character_items/liminal_lantern"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23008
+            },
+            "model": "wynncraft:weapons/shaman/rubytotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23009
+            },
+            "model": "wynncraft:weapons/shaman/wingedrubytotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23010
+            },
+            "model": "wynncraft:weapons/shaman/blazingrubytotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23019
+            },
+            "model": "wynncraft:weapons/shaman/candlekeepsanchor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23030
+            },
+            "model": "wynncraft:weapons/shaman/nightsguide"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23036
+            },
+            "model": "wynncraft:weapons/shaman/fynyksflame"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23038
+            },
+            "model": "wynncraft:weapons/shaman/seraphimstotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23041
+            },
+            "model": "wynncraft:weapons/shaman/soulkeeperscage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23045
+            },
+            "model": "wynncraft:weapons/shaman/stormlordscaller"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23050
+            },
+            "model": "wynncraft:weapons/shaman/crestedgeartotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24010
+            },
+            "model": "wynncraft:weapons/warrior/joltspear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24011
+            },
+            "model": "wynncraft:weapons/warrior/forkedspear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24024
+            },
+            "model": "wynncraft:weapons/warrior/lightningrod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24026
+            },
+            "model": "wynncraft:weapons/warrior/candlekeepwarhammer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24036
+            },
+            "model": "wynncraft:weapons/warrior/spear/seraphim_spear"
+        }
+    ]
+}

@@ -12,21 +12,525 @@
     },
     {
       "predicate": {
-        "custom_model_data": 22000
+        "custom_model_data": 21000
       },
-      "model": "wynncraft:weapons/mage/apollosapathy"
+      "model": "wynncraft:weapons/assassin/tiorvasempathy"
     },
     {
       "predicate": {
-        "custom_model_data": 22001
+        "custom_model_data": 22000
       },
       "model": "wynncraft:weapons/mage/arcanefocuswand"
     },
     {
       "predicate": {
+        "custom_model_data": 23000
+      },
+      "model": "wynncraft:weapons/shaman/simpletotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23001
+      },
+      "model": "wynncraft:weapons/shaman/intermediatetotem"
+    },
+    {
+      "predicate": {
         "custom_model_data": 23002
       },
+      "model": "wynncraft:weapons/shaman/maturedtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23003
+      },
+      "model": "wynncraft:weapons/shaman/holycrucible"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23004
+      },
       "model": "wynncraft:weapons/shaman/atl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23005
+      },
+      "model": "wynncraft:weapons/shaman/atlla"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23006
+      },
+      "model": "wynncraft:weapons/shaman/atllant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23007
+      },
+      "model": "wynncraft:weapons/shaman/atllantrius"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23011
+      },
+      "model": "wynncraft:weapons/shaman/featheredtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23012
+      },
+      "model": "wynncraft:weapons/shaman/fledgedtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23013
+      },
+      "model": "wynncraft:weapons/shaman/flighttotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23014
+      },
+      "model": "wynncraft:weapons/shaman/jolttotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23015
+      },
+      "model": "wynncraft:weapons/shaman/snowflaketotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23016
+      },
+      "model": "wynncraft:weapons/shaman/icicletotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23017
+      },
+      "model": "wynncraft:weapons/shaman/blizzardtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23018
+      },
+      "model": "wynncraft:weapons/shaman/shipwrighttotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23020
+      },
+      "model": "wynncraft:weapons/shaman/frostbitetotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23021
+      },
+      "model": "wynncraft:weapons/shaman/broccoli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23022
+      },
+      "model": "wynncraft:weapons/shaman/silsdarkmoon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23023
+      },
+      "model": "wynncraft:weapons/shaman/chromaticorbofconfusion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23024
+      },
+      "model": "wynncraft:weapons/shaman/fallenfalsegod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23025
+      },
+      "model": "wynncraft:weapons/shaman/dreamweaverscage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23026
+      },
+      "model": "wynncraft:weapons/shaman/glitch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23027
+      },
+      "model": "wynncraft:weapons/shaman/sorrowfulangel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23028
+      },
+      "model": "wynncraft:weapons/shaman/arcofthetundra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23029
+      },
+      "model": "wynncraft:weapons/shaman/tiorvaschaos"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23031
+      },
+      "model": "wynncraft:weapons/shaman/jackspost"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23032
+      },
+      "model": "wynncraft:weapons/shaman/cryogonofspite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23033
+      },
+      "model": "wynncraft:weapons/shaman/puckspanflute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23034
+      },
+      "model": "wynncraft:weapons/shaman/drumofdumah"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23035
+      },
+      "model": "wynncraft:weapons/shaman/holygrail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23037
+      },
+      "model": "wynncraft:weapons/shaman/sigilofsealing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23039
+      },
+      "model": "wynncraft:weapons/shaman/puppetofthetrickster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23040
+      },
+      "model": "wynncraft:weapons/shaman/cogworktotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23042
+      },
+      "model": "wynncraft:weapons/shaman/dollofthetrickster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23043
+      },
+      "model": "wynncraft:weapons/shaman/dumdumstotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23044
+      },
+      "model": "wynncraft:weapons/shaman/voodoovengeance"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23046
+      },
+      "model": "wynncraft:weapons/shaman/goldthorntotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23047
+      },
+      "model": "wynncraft:weapons/shaman/geomancerstotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23048
+      },
+      "model": "wynncraft:weapons/shaman/tribunaltotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23049
+      },
+      "model": "wynncraft:weapons/shaman/druidskeepsake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23051
+      },
+      "model": "wynncraft:weapons/shaman/rubycrestedtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23052
+      },
+      "model": "wynncraft:weapons/shaman/enchantedtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23053
+      },
+      "model": "wynncraft:weapons/shaman/andraswatch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23054
+      },
+      "model": "wynncraft:weapons/shaman/fossilizedtotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23055
+      },
+      "model": "wynncraft:weapons/shaman/goldentotem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24000
+      },
+      "model": "wynncraft:weapons/warrior/simplescythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24001
+      },
+      "model": "wynncraft:weapons/warrior/simpleglaive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24002
+      },
+      "model": "wynncraft:weapons/warrior/simplespear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24003
+      },
+      "model": "wynncraft:weapons/warrior/ignitedspear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24004
+      },
+      "model": "wynncraft:weapons/warrior/blazingspear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24005
+      },
+      "model": "wynncraft:weapons/warrior/bardsrequime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24006
+      },
+      "model": "wynncraft:weapons/warrior/paddleoftides"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24007
+      },
+      "model": "wynncraft:weapons/warrior/trustedsteed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24008
+      },
+      "model": "wynncraft:weapons/warrior/simplehammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24009
+      },
+      "model": "wynncraft:weapons/warrior/crystalspear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24012
+      },
+      "model": "wynncraft:weapons/warrior/hallowedbane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24013
+      },
+      "model": "wynncraft:weapons/warrior/skewer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24014
+      },
+      "model": "wynncraft:weapons/warrior/soldiershalberd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24015
+      },
+      "model": "wynncraft:weapons/warrior/gearcrestspear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24016
+      },
+      "model": "wynncraft:weapons/warrior/makeshiftaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24017
+      },
+      "model": "wynncraft:weapons/warrior/oldrake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24018
+      },
+      "model": "wynncraft:weapons/warrior/thefallentraveler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24019
+      },
+      "model": "wynncraft:weapons/warrior/sandsweptglaive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24020
+      },
+      "model": "wynncraft:weapons/warrior/zephyrsgale"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24021
+      },
+      "model": "wynncraft:weapons/warrior/hammerofjustice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24022
+      },
+      "model": "wynncraft:weapons/warrior/gloryofvalor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24023
+      },
+      "model": "wynncraft:weapons/warrior/cogworkspear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24025
+      },
+      "model": "wynncraft:weapons/warrior/duelersdelight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24027
+      },
+      "model": "wynncraft:weapons/warrior/bonechill"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24028
+      },
+      "model": "wynncraft:weapons/warrior/shadekinspear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24029
+      },
+      "model": "wynncraft:weapons/warrior/timesend"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24030
+      },
+      "model": "wynncraft:weapons/warrior/axeofthefjord"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24031
+      },
+      "model": "wynncraft:weapons/warrior/crestofconquest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24032
+      },
+      "model": "wynncraft:weapons/warrior/deathsrespite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24033
+      },
+      "model": "wynncraft:weapons/warrior/swiftglaive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24034
+      },
+      "model": "wynncraft:weapons/warrior/malletofthevale"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24035
+      },
+      "model": "wynncraft:weapons/warrior/batofthetrickster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24037
+      },
+      "model": "wynncraft:weapons/warrior/frostedtorrent"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24038
+      },
+      "model": "wynncraft:weapons/warrior/battleaxeofmana"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24039
+      },
+      "model": "wynncraft:weapons/warrior/championsgreatblade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24040
+      },
+      "model": "wynncraft:weapons/warrior/malletofthemech"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24041
+      },
+      "model": "wynncraft:weapons/warrior/error"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24042
+      },
+      "model": "wynncraft:weapons/warrior/elvursmight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24043
+      },
+      "model": "wynncraft:weapons/warrior/silsrevenge"
     }
   ]
 }
