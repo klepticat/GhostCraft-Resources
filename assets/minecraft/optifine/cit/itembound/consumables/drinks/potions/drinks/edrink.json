@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "./edrink_drink",
-        "layer1": "./edrink_can"
-    }
-}

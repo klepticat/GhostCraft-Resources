@@ -1,0 +1,104 @@
+{
+    "variants": {
+        "": [{ 
+			    "model": "block/bookshelf/bookshelf", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf0", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf00", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf1", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf2", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf3", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf4", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf5", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf6", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf7", "weight": 100
+			},		
+			{
+				"model": "block/bookshelf/bookshelf8", "weight": 100
+			},
+	     	{
+				"model": "block/bookshelf/bookshelf9", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf10", "weight": 70
+			},
+			{
+				"model": "block/bookshelf/bookshelf11", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf12", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf13", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf14", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf15", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf16", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf17", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf18", "weight": 50
+			},
+			{
+				"model": "block/bookshelf/bookshelf19", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf20", "weight": 80
+			},
+			{
+				"model": "block/bookshelf/bookshelf21", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf22", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf23", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf24", "weight": 50
+			},
+			{
+				"model": "block/bookshelf/bookshelf25", "weight": 20
+			},
+			{
+				"model": "block/bookshelf/bookshelf26", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf27", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf28", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf29", "weight": 100
+			},
+			{
+				"model": "block/bookshelf/bookshelf30", "weight": 100
+			}
+        ]
+    }
+}

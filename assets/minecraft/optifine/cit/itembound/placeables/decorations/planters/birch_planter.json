@@ -1,7 +1,0 @@
-{
-	"credit": "Made by betaklerik with Blockbench",
-	"parent": "./acacia_planter",
-	"textures": {
-		"texture": "./birch_planter"
-	}
-}

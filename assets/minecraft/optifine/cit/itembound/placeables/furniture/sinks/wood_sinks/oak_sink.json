@@ -1,7 +1,0 @@
-{
-	"credit": "Made by betaklerik with Blockbench",
-	"parent": "./acacia_sink",
-	"textures": {
-		"texture": "./oak_sink"
-	}
-}
