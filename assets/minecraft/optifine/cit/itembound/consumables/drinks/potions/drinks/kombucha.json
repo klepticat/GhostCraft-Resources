@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "./kombucha_drink",
-        "layer1": "./kombucha_bottle"
-    }
-}

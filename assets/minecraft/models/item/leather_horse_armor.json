@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "ghostcraft:npc_glyphs/exclamation_point"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "ghostcraft:npc_glyphs/question_mark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "ghostcraft:npc_glyphs/speech_bubble"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "ghostcraft:npc_glyphs/skull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "ghostcraft:npc_glyphs/horizontal_arrows"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "ghostcraft:npc_glyphs/diamond"
+    }
+  ]
+}

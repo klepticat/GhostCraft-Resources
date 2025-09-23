@@ -1,7 +1,0 @@
-{
-	"credit": "Made by betaklerik with Blockbench",
-	"parent": "./shield_acacia_blocking",
-	"textures": {
-		"0": "./shield_cherry"
-	}
-}

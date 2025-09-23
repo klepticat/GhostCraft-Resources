@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "optifine/cit/sources/transparent_icon",
-        "layer1": "./candy_strength"
-    }
-}
